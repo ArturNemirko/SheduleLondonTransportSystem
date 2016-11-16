@@ -10,7 +10,7 @@ namespace ScheduleLondonTransportSystem.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "My Home Page";
+            ViewBag.Title = "London Transport";
 
             return View();
         }
